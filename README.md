@@ -1,2 +1,2 @@
 # Gold-UI
- 'Museum' copy of Gold UI mod, which disappeared from the internet.
+ 'Museum' copy of Gold UI mod by Sockybob, which disappeared from the internet.
